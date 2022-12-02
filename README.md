@@ -83,6 +83,7 @@ the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 ## Thanks
 
 - [Petrik de Heus (p8)](https://github.com/p8)
+- [Den Zubritskiy katatsu12](https://github.com/katatsu12)
 
 ## License
 
